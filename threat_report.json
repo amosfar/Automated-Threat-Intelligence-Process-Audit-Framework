@@ -1,0 +1,1717 @@
+[
+    {
+        "Process": "mysqld",
+        "PID": 5712,
+        "MemoryMB": 381.67,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "explorer",
+        "PID": 9796,
+        "MemoryMB": 381.63,
+        "Hash": "11AEF65EF73C2D8FDF6688FBBD16F60C1B58641C46405A1B0FB0F9C2C5B35402",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "steamwebhelper",
+        "PID": 16364,
+        "MemoryMB": 355.44,
+        "Hash": "08588502C81D12410D7AA9B1601F8AD0E69BD4D93842C54F45E6A96816355645",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 15344,
+        "MemoryMB": 345.52,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "MsMpEng",
+        "PID": 4112,
+        "MemoryMB": 324.45,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "dwm",
+        "PID": 1668,
+        "MemoryMB": 296.07,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "brave",
+        "PID": 6896,
+        "MemoryMB": 269.4,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 14852,
+        "MemoryMB": 246.33,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "PhoneExperienceHost",
+        "PID": 9568,
+        "MemoryMB": 232.44,
+        "Hash": "AEAB276D36C2CA4EA541F835CBABF3D5AA3F3C6AE78A9E56163E57489A74F3B5",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "WindowsWidgets.WinUI",
+        "PID": 10428,
+        "MemoryMB": 222.62,
+        "Hash": "0C16A35CD4E257875287ADDB03F1D2063DB2E708354046A109D56AEA1BAB265B",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "steamwebhelper",
+        "PID": 17060,
+        "MemoryMB": 200.01,
+        "Hash": "08588502C81D12410D7AA9B1601F8AD0E69BD4D93842C54F45E6A96816355645",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 15288,
+        "MemoryMB": 188.61,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "OneDrive",
+        "PID": 14632,
+        "MemoryMB": 185.8,
+        "Hash": "BCD025F3CE6CEFEB950B2A02C01BECCFB0A6C8465841AD879E93421418E31B46",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 8912,
+        "MemoryMB": 179.02,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "StartMenuExperienceHost",
+        "PID": 11896,
+        "MemoryMB": 156.65,
+        "Hash": "87B6B7B874AC9B10A76C233CDB606D43D6261BE4ED7D9E34F4507D1DA98C29AC",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "SearchHost",
+        "PID": 11888,
+        "MemoryMB": 149.45,
+        "Hash": "95C4EEA46858986D0AD626CFA7EA6B88D30FC3D672FC15EF5B6318E7650C4999",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "msedgewebview2",
+        "PID": 13664,
+        "MemoryMB": 133.1,
+        "Hash": "A56B0CA8DD9D8DDEE04B086A9B5B5A63734746556CA2E844E5BAF2A96116528D",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 15548,
+        "MemoryMB": 131.23,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "WidgetBoard",
+        "PID": 12096,
+        "MemoryMB": 130.39,
+        "Hash": "029CC30E98E258DC7C38870B49632B9C991D3A62AA09D8A094AAECDF48BB03FD",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 15020,
+        "MemoryMB": 129,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "Notepad",
+        "PID": 3888,
+        "MemoryMB": 128.34,
+        "Hash": "3D5B56EC5CBE064E10B9525EF74359A4E6B83A9C3341F5FBAAC629BCE80B6817",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "LockApp",
+        "PID": 18876,
+        "MemoryMB": 126.21,
+        "Hash": "2944F3CBA0F16F14583CB3C3A7E24ED073E4EECAD7AB6620659D58FB3594D122",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "msedgewebview2",
+        "PID": 13084,
+        "MemoryMB": 122.43,
+        "Hash": "A56B0CA8DD9D8DDEE04B086A9B5B5A63734746556CA2E844E5BAF2A96116528D",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 15492,
+        "MemoryMB": 119.84,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "CrossDeviceService",
+        "PID": 7384,
+        "MemoryMB": 116.68,
+        "Hash": "51701C75D78534C79171F03EA3DBBCEC2A7D257B3D49F917712A0EA5EE3F76C0",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "msedgewebview2",
+        "PID": 13372,
+        "MemoryMB": 115.37,
+        "Hash": "A56B0CA8DD9D8DDEE04B086A9B5B5A63734746556CA2E844E5BAF2A96116528D",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "cef_server",
+        "PID": 18092,
+        "MemoryMB": 111.06,
+        "Hash": "34EF64DFA5A651770D1252515B2EA7AA784498F6582E4FB756B48506E7EAA91F",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "steamwebhelper",
+        "PID": 18196,
+        "MemoryMB": 101.64,
+        "Hash": "08588502C81D12410D7AA9B1601F8AD0E69BD4D93842C54F45E6A96816355645",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "Secure System",
+        "PID": 188,
+        "MemoryMB": 98.77,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "brave",
+        "PID": 16136,
+        "MemoryMB": 89.69,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "WindowsTerminal",
+        "PID": 14004,
+        "MemoryMB": 88.85,
+        "Hash": "AA293DC0FE288C4B40CD5126A047A3AE706DAFBA8D6B6AC67DB125C782FD5926",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "TextInputHost",
+        "PID": 13892,
+        "MemoryMB": 87.72,
+        "Hash": "C0D0AD5481D120B5EE6B3FDC4F4950513D34D717B05191A4C10427EE56563641",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 15412,
+        "MemoryMB": 86.66,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "ShellExperienceHost",
+        "PID": 7180,
+        "MemoryMB": 83.8,
+        "Hash": "8EBE6C6BD4D60BF38685720CAB942AB177319E21E23AADFF1283A9F84E249140",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "powershell",
+        "PID": 6068,
+        "MemoryMB": 83.21,
+        "Hash": "0FF6F2C94BC7E2833A5F7E16DE1622E5DBA70396F31C7D5F56381870317E8C46",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "cef_server",
+        "PID": 2108,
+        "MemoryMB": 77.56,
+        "Hash": "34EF64DFA5A651770D1252515B2EA7AA784498F6582E4FB756B48506E7EAA91F",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 15696,
+        "MemoryMB": 74.68,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 4320,
+        "MemoryMB": 71.88,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "steam",
+        "PID": 16780,
+        "MemoryMB": 71.87,
+        "Hash": "B111EC4AF805D1D135EBDA0BD4F9BCCD9EF8425379AF3C0B38FF2B4530055DCC",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "powershell",
+        "PID": 19188,
+        "MemoryMB": 71.65,
+        "Hash": "0FF6F2C94BC7E2833A5F7E16DE1622E5DBA70396F31C7D5F56381870317E8C46",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "CrossDeviceResume",
+        "PID": 4732,
+        "MemoryMB": 68.93,
+        "Hash": "3012701409B410D1F05742F02D9DD4C1F363053BD780BD3CAA6629CABCC166C1",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "TabTip",
+        "PID": 4600,
+        "MemoryMB": 66.39,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "ApplicationFrameHost",
+        "PID": 8512,
+        "MemoryMB": 61.88,
+        "Hash": "71E9E013B724C0EA6B2D7D91151FD87EBC1179A0254D671C66415FE066B60907",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "NVDisplay.Container",
+        "PID": 5772,
+        "MemoryMB": 61.33,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "brave",
+        "PID": 5340,
+        "MemoryMB": 60.57,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "Memory Compression",
+        "PID": 3448,
+        "MemoryMB": 60.11,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "Registry",
+        "PID": 232,
+        "MemoryMB": 57.41,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "steamwebhelper",
+        "PID": 17356,
+        "MemoryMB": 57.36,
+        "Hash": "08588502C81D12410D7AA9B1601F8AD0E69BD4D93842C54F45E6A96816355645",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "wallpaper32",
+        "PID": 5968,
+        "MemoryMB": 56.68,
+        "Hash": "937A2420A6002FB2215BD28BC341411A8C8FEB41864CCF84EF59BE61BEE3F63D",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 15056,
+        "MemoryMB": 56.23,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "RuntimeBroker",
+        "PID": 12168,
+        "MemoryMB": 56.06,
+        "Hash": "9D4571F9C93BC1CFA5F390D09EF79AC0A29656122A793CB6376027566B8D3121",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "ShellHost",
+        "PID": 9904,
+        "MemoryMB": 53.2,
+        "Hash": "CA625B7BF8E2E471EB4EB8C2287F59D980FAED6FEA328439D11AAAD61C85CE6E",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "OfficeClickToRun",
+        "PID": 4368,
+        "MemoryMB": 52.8,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "brave",
+        "PID": 15356,
+        "MemoryMB": 51.78,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "NVDisplay.Container",
+        "PID": 3080,
+        "MemoryMB": 51.71,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "sihost",
+        "PID": 7320,
+        "MemoryMB": 50.21,
+        "Hash": "1E115EF87C00E685F8E7B1B184EB9FA3470A0EC75B678A70D3D2D3CBFDE3DCB7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "AppActions",
+        "PID": 5884,
+        "MemoryMB": 49.84,
+        "Hash": "E0050C3342BED6026817C0D33F908FF881926FF6E0948D81AA4A3E566B68492A",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 13940,
+        "MemoryMB": 46.95,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "FileCoAuth",
+        "PID": 7884,
+        "MemoryMB": 46.03,
+        "Hash": "7BF44A7F9999DBF0DC1A447361EBE9477A37940016A3F063846D24749A095AFF",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "RuntimeBroker",
+        "PID": 7532,
+        "MemoryMB": 45.07,
+        "Hash": "9D4571F9C93BC1CFA5F390D09EF79AC0A29656122A793CB6376027566B8D3121",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "gamingservices",
+        "PID": 3600,
+        "MemoryMB": 44.59,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "OneApp.IGCC.WinService",
+        "PID": 4404,
+        "MemoryMB": 44.48,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "MicrosoftStartFeedProvider",
+        "PID": 12736,
+        "MemoryMB": 44.1,
+        "Hash": "400B47F3B7DAE0AFE56C16A130EE44861CC2235D12995F1636C6FD5C08D1DD1E",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "SearchIndexer",
+        "PID": 11424,
+        "MemoryMB": 44.09,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "msedgewebview2",
+        "PID": 13360,
+        "MemoryMB": 42.79,
+        "Hash": "A56B0CA8DD9D8DDEE04B086A9B5B5A63734746556CA2E844E5BAF2A96116528D",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "servicehost",
+        "PID": 4680,
+        "MemoryMB": 42.77,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 1336,
+        "MemoryMB": 42.7,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "SpotifyWidgetProvider",
+        "PID": 12276,
+        "MemoryMB": 41.25,
+        "Hash": "2D2FCF5C620249C7E8C7BAB19926D4C23E0D69B2C5312446C4851D3D95409A08",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "WavesSvc64",
+        "PID": 14480,
+        "MemoryMB": 41.25,
+        "Hash": "CE2A16461F36383B0C591EFD85A183D33F9A989029E4368323F0D1B9B1BC2222",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 18360,
+        "MemoryMB": 40.11,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 1700,
+        "MemoryMB": 38.16,
+        "Hash": "53A39B900E3BFBF384ACD13F0FC2329FA8D42B61E993D8ED5ADF3A1428005D26",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 8508,
+        "MemoryMB": 36.84,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4072,
+        "MemoryMB": 36.23,
+        "Hash": "53A39B900E3BFBF384ACD13F0FC2329FA8D42B61E993D8ED5ADF3A1428005D26",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "ctfmon",
+        "PID": 7108,
+        "MemoryMB": 36.23,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "lsass",
+        "PID": 1208,
+        "MemoryMB": 35.19,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 18596,
+        "MemoryMB": 35.06,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "WidgetService",
+        "PID": 12404,
+        "MemoryMB": 34.45,
+        "Hash": "7335EEC0530B4FB2B8E523A16AE7D4D4F3FEA3D98E00F5B608EF204EB73F6578",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "steamwebhelper",
+        "PID": 16460,
+        "MemoryMB": 33.09,
+        "Hash": "08588502C81D12410D7AA9B1601F8AD0E69BD4D93842C54F45E6A96816355645",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 10784,
+        "MemoryMB": 32.36,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "brave",
+        "PID": 18524,
+        "MemoryMB": 32.18,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "cef_server",
+        "PID": 12600,
+        "MemoryMB": 31.97,
+        "Hash": "34EF64DFA5A651770D1252515B2EA7AA784498F6582E4FB756B48506E7EAA91F",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 10724,
+        "MemoryMB": 31.84,
+        "Hash": "53A39B900E3BFBF384ACD13F0FC2329FA8D42B61E993D8ED5ADF3A1428005D26",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 4328,
+        "MemoryMB": 31.18,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3632,
+        "MemoryMB": 31.12,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "RuntimeBroker",
+        "PID": 14456,
+        "MemoryMB": 30.68,
+        "Hash": "9D4571F9C93BC1CFA5F390D09EF79AC0A29656122A793CB6376027566B8D3121",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 16036,
+        "MemoryMB": 29.95,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "PresentationFontCache",
+        "PID": 8324,
+        "MemoryMB": 29.77,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "smartscreen",
+        "PID": 9604,
+        "MemoryMB": 29.16,
+        "Hash": "320529AD57BEC40F067BAA8A34E0AE5596061AF880A3CDB6181940AB721C4AF6",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "uihost",
+        "PID": 4744,
+        "MemoryMB": 29.12,
+        "Hash": "D55A7A8226F28ECAB620AE63D25325FB07AECF689A7B36C53EA6A2C9673A7B22",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "mysqld",
+        "PID": 4628,
+        "MemoryMB": 28.87,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "wslservice",
+        "PID": 5196,
+        "MemoryMB": 28.77,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 7516,
+        "MemoryMB": 27.96,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4312,
+        "MemoryMB": 27.84,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3904,
+        "MemoryMB": 27.74,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "MpDefenderCoreService",
+        "PID": 4604,
+        "MemoryMB": 27.63,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "taskhostw",
+        "PID": 18124,
+        "MemoryMB": 27.28,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 15376,
+        "MemoryMB": 27.07,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4676,
+        "MemoryMB": 26.93,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4208,
+        "MemoryMB": 26.26,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "brave",
+        "PID": 7124,
+        "MemoryMB": 26.05,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "WhatsApp",
+        "PID": 19196,
+        "MemoryMB": 25.98,
+        "Hash": "F6ED4EF9388CB4B565AE78E5D94BFB91EAABA9F0429EB1F6BBE58DC349B39A98",
+        "MaliciousHits": 1
+    },
+    {
+        "Process": "IntelAudioService",
+        "PID": 4636,
+        "MemoryMB": 25.93,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3732,
+        "MemoryMB": 25.54,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 12176,
+        "MemoryMB": 25.46,
+        "Hash": "53A39B900E3BFBF384ACD13F0FC2329FA8D42B61E993D8ED5ADF3A1428005D26",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "SecurityHealthService",
+        "PID": 12092,
+        "MemoryMB": 25.38,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "dllhost",
+        "PID": 16844,
+        "MemoryMB": 24.72,
+        "Hash": "50C9C2EDEA6C51F1AAD2DD80A59F4EDB32637F51714F8472D216E5B9BDACDABF",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 10000,
+        "MemoryMB": 24.7,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "steamwebhelper",
+        "PID": 8244,
+        "MemoryMB": 24.64,
+        "Hash": "08588502C81D12410D7AA9B1601F8AD0E69BD4D93842C54F45E6A96816355645",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "WUDFHost",
+        "PID": 1456,
+        "MemoryMB": 24.57,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "WmiPrvSE",
+        "PID": 7868,
+        "MemoryMB": 24.46,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "audiodg",
+        "PID": 15672,
+        "MemoryMB": 23.8,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "taskhostw",
+        "PID": 4716,
+        "MemoryMB": 23.49,
+        "Hash": "B8BBDC0B05EE10DD81615C9BD890C5485CB1B6F731C7294C6A1114B473374653",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "brave",
+        "PID": 5152,
+        "MemoryMB": 23.47,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 3692,
+        "MemoryMB": 22.98,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2384,
+        "MemoryMB": 22.06,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2264,
+        "MemoryMB": 22.03,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "msedgewebview2",
+        "PID": 13568,
+        "MemoryMB": 21.83,
+        "Hash": "A56B0CA8DD9D8DDEE04B086A9B5B5A63734746556CA2E844E5BAF2A96116528D",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 3288,
+        "MemoryMB": 21.82,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "RuntimeBroker",
+        "PID": 18008,
+        "MemoryMB": 21.62,
+        "Hash": "9D4571F9C93BC1CFA5F390D09EF79AC0A29656122A793CB6376027566B8D3121",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 6120,
+        "MemoryMB": 21.55,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 1512,
+        "MemoryMB": 21.48,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "RvControlSvc",
+        "PID": 4812,
+        "MemoryMB": 21.3,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "spoolsv",
+        "PID": 2948,
+        "MemoryMB": 21.3,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "ThunderboltService",
+        "PID": 5036,
+        "MemoryMB": 20.53,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "services",
+        "PID": 1156,
+        "MemoryMB": 20.5,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "cef_server",
+        "PID": 11988,
+        "MemoryMB": 20.39,
+        "Hash": "34EF64DFA5A651770D1252515B2EA7AA784498F6582E4FB756B48506E7EAA91F",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 11568,
+        "MemoryMB": 20.17,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "nvWmi64",
+        "PID": 8368,
+        "MemoryMB": 19.92,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "igfxEM",
+        "PID": 9520,
+        "MemoryMB": 19.9,
+        "Hash": "0B8DCCC30B72BD39FAD26DCFCBE9E418CFFDAC08F5CC8636987FCF2DB17265E0",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "LMS",
+        "PID": 4592,
+        "MemoryMB": 19.41,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3564,
+        "MemoryMB": 19.11,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "WavesSysSvc64",
+        "PID": 5188,
+        "MemoryMB": 19.08,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "RuntimeBroker",
+        "PID": 8432,
+        "MemoryMB": 19.05,
+        "Hash": "9D4571F9C93BC1CFA5F390D09EF79AC0A29656122A793CB6376027566B8D3121",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "OpenConsole",
+        "PID": 16772,
+        "MemoryMB": 19.05,
+        "Hash": "D1FE7FAA62F9E955E2AC2371F95D7E5513DF4D496255097158F979C94782C5FC",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "DellFFDPWmiService",
+        "PID": 4304,
+        "MemoryMB": 19.04,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "SearchProtocolHost",
+        "PID": 18500,
+        "MemoryMB": 18.93,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3356,
+        "MemoryMB": 18.77,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "winlogon",
+        "PID": 1136,
+        "MemoryMB": 18.7,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "RtkAudUService64",
+        "PID": 4768,
+        "MemoryMB": 18.21,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "aesm_service",
+        "PID": 16960,
+        "MemoryMB": 18.12,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "steamservice",
+        "PID": 17160,
+        "MemoryMB": 18.03,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 868,
+        "MemoryMB": 17.84,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4228,
+        "MemoryMB": 17.5,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "RtkAudUService64",
+        "PID": 14388,
+        "MemoryMB": 17.46,
+        "Hash": "B3A071C48967178D1730E3909AF4DCFA1ABD10079D135DEA07AA9F977A96ED50",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 3960,
+        "MemoryMB": 16.86,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 9488,
+        "MemoryMB": 16.85,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 9240,
+        "MemoryMB": 16.61,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3992,
+        "MemoryMB": 16.57,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "WMIRegistrationService",
+        "PID": 5108,
+        "MemoryMB": 16.4,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 17968,
+        "MemoryMB": 16.27,
+        "Hash": "53A39B900E3BFBF384ACD13F0FC2329FA8D42B61E993D8ED5ADF3A1428005D26",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 3056,
+        "MemoryMB": 15.96,
+        "Hash": "53A39B900E3BFBF384ACD13F0FC2329FA8D42B61E993D8ED5ADF3A1428005D26",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "NisSrv",
+        "PID": 9644,
+        "MemoryMB": 15.91,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "AggregatorHost",
+        "PID": 9500,
+        "MemoryMB": 15.76,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 16700,
+        "MemoryMB": 15.64,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4520,
+        "MemoryMB": 15.43,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2016,
+        "MemoryMB": 15.37,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "WmiPrvSE",
+        "PID": 5688,
+        "MemoryMB": 15.03,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3228,
+        "MemoryMB": 14.77,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "steamwebhelper",
+        "PID": 17216,
+        "MemoryMB": 14.58,
+        "Hash": "08588502C81D12410D7AA9B1601F8AD0E69BD4D93842C54F45E6A96816355645",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 4184,
+        "MemoryMB": 14.48,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3156,
+        "MemoryMB": 14.42,
+        "Hash": "53A39B900E3BFBF384ACD13F0FC2329FA8D42B61E993D8ED5ADF3A1428005D26",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "RtkAudUService64",
+        "PID": 11056,
+        "MemoryMB": 14.3,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 5224,
+        "MemoryMB": 14.3,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2008,
+        "MemoryMB": 14.2,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 1560,
+        "MemoryMB": 14.11,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "RuntimeBroker",
+        "PID": 1936,
+        "MemoryMB": 14.02,
+        "Hash": "9D4571F9C93BC1CFA5F390D09EF79AC0A29656122A793CB6376027566B8D3121",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 2076,
+        "MemoryMB": 13.81,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 10700,
+        "MemoryMB": 13.7,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2820,
+        "MemoryMB": 13.68,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4256,
+        "MemoryMB": 13.64,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "nvWmi64",
+        "PID": 4756,
+        "MemoryMB": 13.57,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "SecurityHealthSystray",
+        "PID": 12560,
+        "MemoryMB": 13.43,
+        "Hash": "0235838BC7668B37CF7BB534F927FDA83A04B0076A5A37097A4741C840D744BE",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 6672,
+        "MemoryMB": 13.36,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "SearchFilterHost",
+        "PID": 2736,
+        "MemoryMB": 13.33,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 1984,
+        "MemoryMB": 12.74,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 17832,
+        "MemoryMB": 12.54,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "WmiPrvSE",
+        "PID": 16616,
+        "MemoryMB": 12.49,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "igfxCUIService",
+        "PID": 2744,
+        "MemoryMB": 12.48,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4620,
+        "MemoryMB": 12.17,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "WUDFHost",
+        "PID": 1708,
+        "MemoryMB": 12.16,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 1836,
+        "MemoryMB": 12.1,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "gamingservicesnet",
+        "PID": 8552,
+        "MemoryMB": 11.75,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 9776,
+        "MemoryMB": 11.72,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 9208,
+        "MemoryMB": 11.63,
+        "Hash": "53A39B900E3BFBF384ACD13F0FC2329FA8D42B61E993D8ED5ADF3A1428005D26",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 2100,
+        "MemoryMB": 11.62,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2528,
+        "MemoryMB": 11.61,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "UserOOBEBroker",
+        "PID": 8428,
+        "MemoryMB": 11.44,
+        "Hash": "07BFAE032958A77936DBEAF953D272681BE5BABD62FC5A2BEE015C0CDFC6D5E4",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 3432,
+        "MemoryMB": 11.37,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2496,
+        "MemoryMB": 11.17,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 5848,
+        "MemoryMB": 11.16,
+        "Hash": "53A39B900E3BFBF384ACD13F0FC2329FA8D42B61E993D8ED5ADF3A1428005D26",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 1608,
+        "MemoryMB": 10.78,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 16796,
+        "MemoryMB": 10.77,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "jhi_service",
+        "PID": 4528,
+        "MemoryMB": 10.65,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4068,
+        "MemoryMB": 10.56,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4212,
+        "MemoryMB": 10.48,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2200,
+        "MemoryMB": 10.47,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 14864,
+        "MemoryMB": 10.41,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2508,
+        "MemoryMB": 10.25,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "IntelCpHDCPSvc",
+        "PID": 2060,
+        "MemoryMB": 10.16,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4220,
+        "MemoryMB": 10.12,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3440,
+        "MemoryMB": 10,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "conhost",
+        "PID": 10060,
+        "MemoryMB": 9.94,
+        "Hash": "6651A3BEB0DF1E66363A950C37DC9305F185D161FB03761E172CCFA0A4AB4F89",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 9068,
+        "MemoryMB": 9.93,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 14016,
+        "MemoryMB": 9.77,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 11512,
+        "MemoryMB": 9.75,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "IntelCpHeciSvc",
+        "PID": 2468,
+        "MemoryMB": 9.64,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "conhost",
+        "PID": 6084,
+        "MemoryMB": 9.57,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "RstMwService",
+        "PID": 4776,
+        "MemoryMB": 9.53,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 11520,
+        "MemoryMB": 9.48,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "msedgewebview2",
+        "PID": 13284,
+        "MemoryMB": 9.41,
+        "Hash": "A56B0CA8DD9D8DDEE04B086A9B5B5A63734746556CA2E844E5BAF2A96116528D",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 5052,
+        "MemoryMB": 9.36,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "brave",
+        "PID": 14956,
+        "MemoryMB": 9.32,
+        "Hash": "D37F5B16291B06D44817A9B8CB0ACDABB8043D8B3F7CDF60519D957A7BFB31A7",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 6316,
+        "MemoryMB": 9.03,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3184,
+        "MemoryMB": 8.97,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3816,
+        "MemoryMB": 8.73,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "wininit",
+        "PID": 1036,
+        "MemoryMB": 8.7,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "esif_uf",
+        "PID": 4644,
+        "MemoryMB": 8.62,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "csrss",
+        "PID": 1048,
+        "MemoryMB": 8.33,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 1028,
+        "MemoryMB": 8.19,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "wlanext",
+        "PID": 8940,
+        "MemoryMB": 8.15,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "WifiAutoInstallSrv",
+        "PID": 5092,
+        "MemoryMB": 8.15,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "crashpad_handler",
+        "PID": 1500,
+        "MemoryMB": 8.05,
+        "Hash": "F3FC1CDC3B776ADA3AC8F985C08C15C98B70A78B6E0CD509652F7791BE17AE28",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "wallpaperservice32",
+        "PID": 4972,
+        "MemoryMB": 7.99,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "TbtP2pShortcutService",
+        "PID": 5172,
+        "MemoryMB": 7.71,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 3344,
+        "MemoryMB": 7.64,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 4952,
+        "MemoryMB": 7.51,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 2192,
+        "MemoryMB": 7.5,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 1820,
+        "MemoryMB": 7.06,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "conhost",
+        "PID": 3404,
+        "MemoryMB": 7.01,
+        "Hash": "6651A3BEB0DF1E66363A950C37DC9305F185D161FB03761E172CCFA0A4AB4F89",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "conhost",
+        "PID": 19448,
+        "MemoryMB": 7,
+        "Hash": "6651A3BEB0DF1E66363A950C37DC9305F185D161FB03761E172CCFA0A4AB4F89",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "svchost",
+        "PID": 1840,
+        "MemoryMB": 7,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "csrss",
+        "PID": 808,
+        "MemoryMB": 6.98,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "fontdrvhost",
+        "PID": 1360,
+        "MemoryMB": 6.73,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "svchost",
+        "PID": 10072,
+        "MemoryMB": 5.78,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "fontdrvhost",
+        "PID": 1352,
+        "MemoryMB": 4.88,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "NgcIso",
+        "PID": 6092,
+        "MemoryMB": 4.34,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "LsaIso",
+        "PID": 1188,
+        "MemoryMB": 4.29,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "fsnotifier",
+        "PID": 10688,
+        "MemoryMB": 3.88,
+        "Hash": "317B1D577AF419AD6115F0038288DEAA93C835F53C90FDA9977EE4490292D7FE",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "SystemSettings",
+        "PID": 9084,
+        "MemoryMB": 3.43,
+        "Hash": "B62FD3062A860054E527F7160B780FF9371367E9DC0F46B47CCAC1A0A57FF015",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "BraveCrashHandler",
+        "PID": 16488,
+        "MemoryMB": 2.8,
+        "Hash": "2CF5C93CF98326E80018FE490F4F752685EB95739B46F844006AA4FC99356185",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "BraveCrashHandler64",
+        "PID": 9812,
+        "MemoryMB": 2.41,
+        "Hash": "2757758BB5911227827D2C88ED1985B943ED3326B20788606F4FEA222BF2C658",
+        "MaliciousHits": 0
+    },
+    {
+        "Process": "smss",
+        "PID": 712,
+        "MemoryMB": 1.57,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "System",
+        "PID": 4,
+        "MemoryMB": 0.17,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "Idle",
+        "PID": 0,
+        "MemoryMB": 0.01,
+        "Hash": "NoHash",
+        "MaliciousHits": "NoHash"
+    },
+    {
+        "Process": "pycharm64",
+        "PID": 1808,
+        "MemoryMB": -2046.12,
+        "Hash": "CF9C7FF230977D99EC461DC7A67F6FA70A8AC58341B075CAFFF8439F21D04A40",
+        "MaliciousHits": 0
+    }
+]
